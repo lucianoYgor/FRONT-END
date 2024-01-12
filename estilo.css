@@ -15,7 +15,7 @@ a {
            
 }
 body{
-    background-color: black;
+    background-color: rgb(7, 6, 6);
     font-family: 'Bebas Neue', sans-serif;
 }
 img{
@@ -53,3 +53,8 @@ h1, h3{
         cursor: pointer;
        
       }
+      footer {
+        text-align: center;
+        
+    }
+    
